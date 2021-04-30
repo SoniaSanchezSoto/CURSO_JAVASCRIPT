@@ -1,0 +1,27 @@
+body{
+    background-color: cyan;
+}
+h1{
+    color:gold;
+    border-top: green solid 2px;
+    border-bottom: crimson solid 3px;
+    border-left: darkkhaki solid 4px;
+    border-right: darkmagenta solid 5px;
+    padding-bottom: 50px;
+    padding-block-end: 20px;
+
+}
+p{
+    color:darksalmon;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+span{
+    color: darkslateblue;
+}
+#ta{
+    color: floralwhite;
+}
+#cuerpo{
+    color: forestgreen;
+}
